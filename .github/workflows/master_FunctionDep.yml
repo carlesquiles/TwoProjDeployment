@@ -7,9 +7,7 @@ on:
   push:
     branches:
       - master
-      
     paths:
-      include:
         - FunctionDep
   workflow_dispatch:
 
